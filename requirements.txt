@@ -1,0 +1,4 @@
+neuralcoref
+spacy==2.1.0
+flask
+flask_ngrok
